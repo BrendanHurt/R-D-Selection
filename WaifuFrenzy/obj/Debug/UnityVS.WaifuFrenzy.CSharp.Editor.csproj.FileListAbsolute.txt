@@ -1,0 +1,2 @@
+C:\Users\will.gilstrap\Desktop\Unity\WaifuFrenzy\obj\Debug\UnityVS.WaifuFrenzy.CSharp.Editor.csprojResolveAssemblyReference.cache
+F:\UnityProjects\WaifuSVN\branches\will\WaifuFrenzy\obj\Debug\UnityVS.WaifuFrenzy.CSharp.Editor.csprojResolveAssemblyReference.cache
