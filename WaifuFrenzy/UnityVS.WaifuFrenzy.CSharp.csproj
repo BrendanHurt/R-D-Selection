@@ -71,7 +71,6 @@
     <Compile Include="Assets\WaifuFrenzy\SelectionRD\Scripts\Managers\CameraManager.cs" />
     <Compile Include="Assets\WaifuFrenzy\SelectionRD\Scripts\Managers\GroupManager.cs" />
     <Compile Include="Assets\WaifuFrenzy\SelectionRD\Scripts\Units\EnemyBasicUnit.cs" />
-    <Compile Include="Assets\WaifuFrenzy\SelectionRD\Scripts\Units\UnitBehavior.cs" />
     <Compile Include="Assets\WaifuFrenzy\SelectionRD\Scripts\Units\UnitManager.cs" />
   </ItemGroup>
   <ItemGroup>
